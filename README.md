@@ -1,5 +1,4 @@
 # Ecommerce_dashboard
-version of the post with a thank-you note included:
 
 🔍 Excited to share my recent project! 🚀
 
