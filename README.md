@@ -14,9 +14,6 @@ I had the opportunity to develop a comprehensive sales dashboard for Madhav Ecom
 
 5️⃣ Enhanced Interpretability: Implemented color coding to differentiate data points, improving the clarity and usability of the dashboard.
 
-A big thank you to [Your Sir's Name], whose insightful YouTube tutorials helped me along the way. Your guidance made a real difference in this project!
-
-This project helped me further sharpen my skills in Power BI and data analytics, and I’m excited to continue using these tools to drive business insights!
 
 #DataAnalytics #PowerBI #DataVisualization #SalesAnalysis #Ecommerce #DashboardDesign #ThankYou
 
